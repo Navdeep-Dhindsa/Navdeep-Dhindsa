@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">Hi, Welcome</h1>
 <h3 align="center">You are looking at GitHub profile of Navdeep Singh Dhindsa, PhD student @ IISER Mohali</h3>
 
