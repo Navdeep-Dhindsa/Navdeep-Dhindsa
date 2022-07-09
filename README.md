@@ -12,6 +12,8 @@
 
 - 📫 Email me at: **navdeep.s.dhindsa@gmail.com**
 
+- 🎥 Skype: <a href="https://join.skype.com/invite/aTNhhLWshnkF" ><img src="https://img.shields.io/badge/iNSPIRE-Navdeep Singh Dhindsa-skyblue"   /></a>
+
 <hr>
 
 <h3 align="center">
