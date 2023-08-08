@@ -1,12 +1,18 @@
-<h3 align="center">Hi, Welcome</h3>
+<h3 align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ਸਤਿ+ਸ਼੍ਰੀ+ਅਕਾਲ;Hello,+Welcome)](https://git.io/typing-svg)<br>
+
+</h3>
 
 <hr>
 
-<h3 align="center">You are looking at GitHub profile of Navdeep Singh Dhindsa, PhD student @ IISER Mohali</h3>
+<h3 align="center">You are looking at GitHub profile of Navdeep Singh Dhindsa</h3>
 
 <hr>
 
-- 🔭 My PhD thesis work: **Study field theory matrix models on lattice using Monte Carlo Simulations**
+- 🔭 Current Postdoc work around Lattice QCD simulations.
+
+- 🔭 My PhD thesis work was focused on studies of supersymmetric models on lattice. 
 
 - 🧑‍💼 Access my work on Inspire: <a href="https://inspirehep.net/authors/1834593" ><img src="https://img.shields.io/badge/iNSPIRE-Navdeep Singh Dhindsa-blueviolet"   /></a>
 
@@ -18,7 +24,7 @@
 
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Check+our+recent+work;Check+our+recent+work)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Check+our+previous+work;More+to+appear+soon)](https://git.io/typing-svg)<br>
 <a href="https://link.springer.com/article/10.1007/JHEP05(2022)169" />Non-perturbative phase structure of the bosonic BMN matrix model, JHEP05(2022)169 </a> <br>
 Configurations produced in this work using <a href="https://github.com/daschaich/susy" />SUSY LATTICE </a> code 
 </h3>
@@ -34,7 +40,7 @@ Configurations produced in this work using <a href="https://github.com/daschaich
 
 <hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeep-dhindsa&show_icons=true&theme=dark&title_color=26ebeb&text_color=26ebeb&bg_color=3e0f0f&hide_border=true&locale=en" alt="navdeep-dhindsa" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep-dhindsa&theme=dark" alt="navdeep-dhindsa" /></p>
+<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeep-dhindsa&show_icons=true&theme=dark&title_color=26ebeb&text_color=26ebeb&bg_color=3e0f0f&hide_border=true&locale=en" alt="navdeep-dhindsa" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep-dhindsa&theme=dark" alt="navdeep-dhindsa" /></p>-->
 
 
 <p align="center"></p>
