@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3 align="center">You are looking at GitHub profile of Navdeep Singh Dhindsa</h3>
+<h3 align="center">You are looking at GitHub profile of <a href="https://navdeep-dhindsa.github.io/" target="_blank">Navdeep Singh Dhindsa</a></h3>
 
 <hr>
 
@@ -40,12 +40,12 @@ Configurations produced in this work using <a href="https://github.com/daschaich
 
 <hr>
 
-<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeep-dhindsa&show_icons=true&theme=dark&title_color=26ebeb&text_color=26ebeb&bg_color=3e0f0f&hide_border=true&locale=en" alt="navdeep-dhindsa" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep-dhindsa&theme=dark" alt="navdeep-dhindsa" /></p>-->
+<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeep-dhindsa&show_icons=true&theme=dark&title_color=26ebeb&text_color=26ebeb&bg_color=3e0f0f&hide_border=true&locale=en" alt="navdeep-dhindsa" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeep-dhindsa&theme=dark" alt="navdeep-dhindsa" />
 
 
 <p align="center"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeep-dhindsa&show_icons=true&theme=dark&title_color=26ebeb&text_color=26ebeb&bg_color=3e0f0f&hide_border=true&locale=en&layout=compact" alt="navdeep-dhindsa" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeep-dhindsa&show_icons=true&theme=dark&title_color=26ebeb&text_color=26ebeb&bg_color=3e0f0f&hide_border=true&locale=en&layout=compact" alt="navdeep-dhindsa" /></p></p>-->
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=navdeep-dhindsa&label=Eyes&color=c01c28&style=plastic" alt="navdeep-dhindsa" /> </p>
