@@ -24,8 +24,8 @@
 
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Check+our+previous+work;More+to+appear+soon)](https://git.io/typing-svg)<br>
-<a href="https://link.springer.com/article/10.1007/JHEP05(2022)169" />Non-perturbative phase structure of the bosonic BMN matrix model, JHEP05(2022)169 </a> <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Check+our+previous+work;More+in+progress)](https://git.io/typing-svg)<br>
+<a href="https://arxiv.org/abs/2312.04980" />Phase diagram of two-dimensional SU(N) super-Yang--Mills theory with four supercharges</a> <br>
 Configurations produced in this work using <a href="https://github.com/daschaich/susy" />SUSY LATTICE </a> code 
 </h3>
 
